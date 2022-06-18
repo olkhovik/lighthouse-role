@@ -31,7 +31,7 @@ The simpliest example:
 - name: Install Lighthouse
   hosts: lighthouse
   roles:
-    - lighthouse
+    - lighthouse-role
 ```
 
 License
